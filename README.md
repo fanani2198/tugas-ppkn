@@ -33,11 +33,11 @@
         </div>
         <div class="section">
             <h2>Gotong Royong di Masyarakat</h2>
-            <img src="2.jpg" alt="Gotong Royong di Masyarakat">
+            <img src="2.jpg.jpg" alt="Gotong Royong di Masyarakat">
         </div>
         <div class="section">
             <h2>Gotong Royong di Sekolah</h2>
-            <img src="3.jpg" alt="Gotong Royong di Sekolah">
+            <img src="3.jpg.jpg" alt="Gotong Royong di Sekolah">
         </div>
     </div>
 </body>
