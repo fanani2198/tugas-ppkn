@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -24,7 +23,6 @@
             text-align: center;
         }
     </style>
-</!DOCTYPE html>
 </head>
 <body>
     <div class="container">
