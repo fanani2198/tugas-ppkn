@@ -24,6 +24,7 @@
             text-align: center;
         }
     </style>
+</!DOCTYPE html>
 </head>
 <body>
     <div class="container">
@@ -41,5 +42,4 @@
         </div>
     </div>
 </body>
-</html>
-</!DOCTYPE html>
+</html
